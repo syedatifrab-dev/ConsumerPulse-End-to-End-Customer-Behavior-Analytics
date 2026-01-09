@@ -1,6 +1,6 @@
 # 🛒 ConsumerPulse: End-to-End Customer Behavior Analytics
 
-📌 Project Overview
+**📌 Project Overview**
 
 This project provides a comprehensive analysis of customer shopping behavior using transactional data from 3,900 purchases across various product categories. The primary objective was to uncover actionable insights into spending patterns, customer segmentation, and product preferences to drive strategic business decisions.
 
@@ -15,6 +15,7 @@ Data Visualization: Power BI.
 
 
 **1. Data Preparation (Python)**
+
 -The raw dataset consisted of 3,900 rows and 18 columns, covering demographics, purchase details, and shopping behavior.
 
 -Missing Data Imputation: Handled 37 missing values in the "Review Rating" column by using the median rating for each product category.
@@ -70,7 +71,7 @@ Data Visualization: Power BI.
 
 This project demonstrates the complete analytics lifecycle — from raw data cleaning and SQL analysis to business insights and executive-ready dashboards — making it highly relevant for Data Analyst / Business Analyst roles.
 
-
+![Customer Behavior Dashboard](dashboard.png)
 
 
 
